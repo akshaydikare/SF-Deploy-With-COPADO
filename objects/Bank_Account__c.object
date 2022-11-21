@@ -154,7 +154,7 @@
     <enableSharing>false</enableSharing>
     <enableStreamingApi>false</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
-    <gender>Feminine</gender>
+    <gender>Masculine</gender>
     <label>Bank Account</label>
     <nameField>
         <displayFormat>BA-{0000}</displayFormat>
